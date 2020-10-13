@@ -87,7 +87,7 @@ knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
 ```
 
 
-# Antecedentes
+# Antecedentes tesis
 
 ![Deloitte Potencial FV 2017](Deloitte potencial 2017.png)
 
