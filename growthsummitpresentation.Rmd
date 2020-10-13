@@ -1,5 +1,5 @@
 ---
-title: "growthsummitpresentation"
+title: "Growth Summit Presentation"
 author: "Juan M. González Castillo"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
@@ -89,29 +89,18 @@ knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
 
 # Antecedentes tesis
 
-![Deloitte Potencial FV 2017](Deloitte potencial 2017.png)
 
-## __Desarrollo de un plan estratégico para Mario Villalvazo__
 
-El CEO de dos empresas que verticalmente integran a un sector de la industria energía solar que pronostica un crecimiento del 35% aún con la pandemia según AMIF, Leonardo Velasco.
+# Ecommerce implica estrategia
 
-## Solicitud de un Plan para ventas al cliente final (consumidor)
+## __Desarrollo de un plan estratégico__
 
-  - Expansión a otros estados
-  - Mentorías desde thrive
-  - Mejoras en labodegasolar.com
-  - Brincar instaladores
+Los CEO's de las empresas buscan verticalmente integrarse a su sector de la industria, por ejemplo energía solar, insumos hidropónicos, venta de productos artesanalaes, etc.
 
-    
-# __La solucion es una oportunidad para todos__
+## Plan para ventas al cliente final (consumidor)
 
-## Integración vertical de la capacidad instalada por Mario Villalvazo (oferta)
 
-A partir de las empresas en el portafolio : La Bodega Solar y Thrive Solar Mexico. 
-Aunado a una estrategia expansiva, se puede acceder a un mayor reparto del mercado. 
-Siendo lider en dos sectores verticales a la industria solar se integra una tercera hacia el consumidor a través de la tecnología.
-
-![](Solution.png)
+## Integración vertical de la capacidad instalada  (oferta)
 
 
 # Una Mayor participación en la demanda está invirtiendo en el ECOMMERCE 
@@ -181,9 +170,9 @@ Se propone trabajar semanalmente en la obtención indicadores clave mensualmente
 
 # Dirigir y decidir
 
-La situación actual requiere de una estrategia clara y profunda capaz de unificar las fortalezas y oportunidades de ambas empresas para accesar a un porción mayor del mercado.
+La situación actual requiere de una estrategia clara y profunda capaz de unificar las fortalezas y oportunidades de las empresas para accesar a un porción mayor del mercado.
 
-![](Decisiones.png)
+
 
 # Relación comercial de Largo Plazo
 
