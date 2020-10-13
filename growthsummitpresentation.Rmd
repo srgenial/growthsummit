@@ -1,0 +1,197 @@
+---
+title: "growthsummitpresentation"
+author: "Juan M. González Castillo"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  html_notebook:
+    toc : true
+    toc_depth : 3
+    toc_float :
+      collapsed: false
+      smooth_scroll: false
+      number_sections: true
+---
+
+<style>
+ #TOC {
+  color: #708090;
+  font-family: Calibri;
+  font-size: 16px; 
+  border-color: #708090;
+}
+ #header {
+  color: #F08080;
+  background-color: #F5F5F5;
+  opacity: 0.6;
+  font-family: Calibri;
+  font-size: 40px;
+}
+h2.title {
+  color: #F08080;
+  background-color: #F5F5F5;
+  opacity: 0.6;
+  font-family: Calibri;
+  font-size: 35px;
+}
+h4.author {
+  color: #708090;
+  font-family: Calibri;
+  background-color: #F5F5F5;
+}
+h4.date {
+  color: #708090;  
+  font-family: Calibri;
+  background-color: #F5F5F5;
+}
+body {
+  color: #708090;
+  font-family: Calibri;
+  background-color: #F5F5F5;
+  font-size: 25px;
+}
+pre {
+  color: #708090;
+  background-color: #F8F8FF;
+}
+</style>
+
+
+```{r Initialsetup, echo=FALSE, message=FALSE, warning=FALSE}
+#rm(list = ls())
+libs <- c("dplyr", "plm",  "stargazer","ggplot2","readxl","tidyr", "tibble","directlabels", "ggthemes", "RColorBrewer", "knitr", "stringr","sjPlot", "sjmisc", "sjlabelled",'tinytex')
+for (i in libs) {
+  if(!is.element(i,.packages(all.available = TRUE))) {
+    install.packages(i,repos="https://cran.revolutionanalytics.com/")
+  }
+  library(i,character.only = TRUE)
+}
+
+```
+```{r Markdownsetup, include=FALSE}
+knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
+#install.packages("rlang")
+#detach(package:plyr)
+#install.packages('tinytex')
+#tinytex::install_tinytex()  # install TinyTeX
+#![](images/rmd.png)
+#sapply(ls(),FUN = function(x){class(get(x))[[1]]})
+
+```
+```{r Datasets, echo=FALSE, message=FALSE, warning=FALSE}
+#PDINEGI<-read.csv("PDINEGI.csv", header = TRUE)
+#PDINEGI<-pdata.frame(PDINEGI,c("estado","yr"))
+
+#PDWDI$yr<-as.numeric(as.character(PDWDI$yr))
+#sapply(ls(),FUN = function(x){class(get(x))[[1]]})
+#sapply(c(PDINEGI, PDWDI, VA.PIB.INEGI), class)
+```
+
+
+# Antecedentes tesis
+
+![Deloitte Potencial FV 2017](Deloitte potencial 2017.png)
+
+## __Desarrollo de un plan estratégico para Mario Villalvazo__
+
+El CEO de dos empresas que verticalmente integran a un sector de la industria energía solar que pronostica un crecimiento del 35% aún con la pandemia según AMIF, Leonardo Velasco.
+
+## Solicitud de un Plan para ventas al cliente final (consumidor)
+
+  - Expansión a otros estados
+  - Mentorías desde thrive
+  - Mejoras en labodegasolar.com
+  - Brincar instaladores
+
+    
+# __La solucion es una oportunidad para todos__
+
+## Integración vertical de la capacidad instalada por Mario Villalvazo (oferta)
+
+A partir de las empresas en el portafolio : La Bodega Solar y Thrive Solar Mexico. 
+Aunado a una estrategia expansiva, se puede acceder a un mayor reparto del mercado. 
+Siendo lider en dos sectores verticales a la industria solar se integra una tercera hacia el consumidor a través de la tecnología.
+
+![](Solution.png)
+
+
+# Una Mayor participación en la demanda está invirtiendo en el ECOMMERCE 
+
+Esto no es solo por la pandemia, es un efecto que vengo estudiando en mi tesis
+
+# B2B y B2C
+
+## Las grandes empresas concentran sus esfuerzos de progreso 3 grandes rubros
+
+  - Marketing de ventas
+  - Logística en suministro y despacho
+  - Tecnología propia con valor aggregado
+
+
+
+![](Venn Diagram.png){width=70%}
+
+# ¿Quién DIRIGE esa visión?
+
+# Dirección de expansión o Chief Growth Officer (CGO).
+
+
+# ¿Qué es un CGO?
+
+El complemento perfecto para un CEO
+
+##  director general + director de operaciones 
+
+Si las debilidades para expandirse se concentran en Marketing y Tecnología necesitas un CGO.
+
+![](Descripcion CGO.png)
+
+## Sabemos que problemas multisectoriales requieren dirección multidepartamental.
+## Dirección orientada a equipos.
+
+![Curriculum](Resume-commercial1.pdf){width=100%}
+
+https://github.com/srgenial/resumejuan/blob/master/Resume-commercial.pdf
+
+# ¿Cómo lo lograremos?
+## Arquitectura estatégica en conjunto
+
+Dibujaremos un mapa estratégico que vincula los activos tangibles y los procesos críticos a la propuesta de valor al cliente y a los resultados financieros.
+
+ - Planeación
+ - Organización
+ - Ejecución
+ - Control
+
+![](BSC map.png)
+
+# El inicio está en un análisis FODA por área.
+
+## Medición a través de las 5 fuerzas de Porter y aplicar un BSC a largo plazo.
+
+Se propone trabajar semanalmente en la obtención indicadores clave mensualmente para organización y control de las operaciones críticas para la expansión en:
+
+ * Finanzas
+
+ * Operación interna
+
+ * Ingreso
+
+ * Crecimiento y tecnología
+ 
+
+# Dirigir y decidir
+
+La situación actual requiere de una estrategia clara y profunda capaz de unificar las fortalezas y oportunidades de ambas empresas para accesar a un porción mayor del mercado.
+
+![](Decisiones.png)
+
+# Relación comercial de Largo Plazo
+
+Acuerdo inicial a 3.3 años para:
+
+ - Inicio: 3 meses de planeación
+ - Kickstart: 9 meses hasta lanzamiento
+ - Ejecución: 18 meses de expansión
+ - Control: 10 meses de supervisión global.
+ 
+ Compromiso de una Renegociación de acuerdo inicial para acuerdo a 10 años en la vicepresidencia de Negocios Intl. o simil.
