@@ -86,6 +86,12 @@ knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
 #sapply(c(PDINEGI, PDWDI, VA.PIB.INEGI), class)
 ```
 
+# Los 3 elementos imprescindibles del Comercio Electrónico que son clave del éxito
+
+ - Identifica las oportunidades de tu negocio en línea.
+ - Crea tu estrategia de ecommerce y expansión del ingreso.
+ - 3 elementos clave = 3 soluciones gratis
+ 
 # ¿Quién Soy?.
 
 ![](20200701-Juan - 014-min.jpg){width=70%}
@@ -94,48 +100,47 @@ Link a CV: https://github.com/srgenial/resumejuan/blob/master/Resume-commercial.
 
 ![Curriculum](Resume-commercial-spanish.pdf){width=100%}
 
-# Elementos imprescindibles del Comercio Electrónico
 
 
-# Estrategia
+# __Estrategias para negocios exitosos__
 
-Ecommerce implica estrategia
+Ecommerce implica estrategia 
+
+## ¿Cómo se lograremos?
+
+Dibujamos un mapa estratégico que vincula los activos tangibles y los procesos críticos a la propuesta de valor al cliente y a los resultados financieros.
+
+ - Planeación
+ - Organización
+ - Ejecución
+ - Control
 
 ## __Desarrollo de un plan estratégico__
 
-Los CEO's de las empresas buscan verticalmente integrarse a su sector de la industria, por ejemplo energía solar, insumos hidropónicos, venta de productos artesanalaes, etc.
+Los CEO's de las empresas buscan integrarse verticalmente  a su sector de la industria, por ejemplo energía solar, insumos hidropónicos, venta de productos artesanalaes, etc.
 
 ## Plan para ventas al cliente final (consumidor)
 
-## Integración vertical de la capacidad instalada  (oferta)
+## Integración vertical de según su capacidad instalada  (oferta)
 
-# Dirigir y decidir
+
+# __Dirigir y decidir__
+
+## Desarrollar relaciones comerciales de Largo Plazo
+
+# Online vs Offline
+
+## Investigación de Mercado
 
 La situación actual requiere de una estrategia clara y profunda capaz de unificar las fortalezas y oportunidades de las empresas para accesar a un porción mayor del mercado.
 
-
-
-# Relación comercial de Largo Plazo
-
-Acuerdo inicial a 3.3 años para:
-
- - Inicio: 3 meses de planeación
- - Kickstart: 9 meses hasta lanzamiento
- - Ejecución: 18 meses de expansión
- - Control: 10 meses de supervisión global.
- 
- Compromiso de una Renegociación de acuerdo inicial para acuerdo a 10 años en la vicepresidencia de Negocios Intl. o simil.
-
-
-
-# Investigación de Mercado
 Una Mayor participación en la demanda está invirtiendo en el ECOMMERCE 
 
 Esto no es solo por la pandemia, es un efecto que vengo estudiando en mi tesis
 
-# B2B y B2C
+# __B2B y B2C en 3 claves__
 
-## Las grandes empresas concentran sus esfuerzos de progreso 3 grandes rubros
+__ Las grandes empresas concentran sus esfuerzos de progreso 3 grandes rubros__
 
   - Marketing de ventas
   - Logística en suministro y despacho
@@ -146,11 +151,12 @@ Esto no es solo por la pandemia, es un efecto que vengo estudiando en mi tesis
 ![](Venn Diagram.png){width=70%}
 
 
-# Dirección de expansión o Chief Growth Officer (CGO).
 
-## ¿Quién DIRIGE esa visión?
+# ¿Quién DIRIGE esa visión?
 
-## ¿Qué es un CGO?
+## Dirección de expansión o Chief Growth Officer (CGO).
+
+### ¿Qué es un CGO?
 
 El complemento perfecto para un CEO
 
@@ -163,23 +169,20 @@ Si las debilidades para expandirse se concentran en Marketing y Tecnología nece
 Sabemos que problemas multisectoriales requieren dirección multidepartamental.
 
 
-# Arquitectura estatégica en conjunto
-## ¿Cómo lo lograremos?
+# ¿Cómo lo lograremos?
+## Arquitectura estatégica en conjunto
 
 Dibujaremos un mapa estratégico que vincula los activos tangibles y los procesos críticos a la propuesta de valor al cliente y a los resultados financieros.
 
- - Planeación
- - Organización
- - Ejecución
- - Control
+ ![](BSC map.png)
 
-![](BSC map.png)
+## Rescates Teóricos
 
-## El inicio está en un análisis FODA por área.
+El inicio está en un análisis FODA por área.
 
-## Medición a través de las 5 fuerzas de Porter y aplicar un BSC a largo plazo.
+Medición a través de las 5 fuerzas de Porter y aplicar un Balance Score Card a largo plazo.
 
-Se propone trabajar semanalmente en la obtención indicadores clave mensualmente para organización y control de las operaciones críticas para la expansión en:
+Trabajo semanalmente en la obtención indicadores clave mensualmente para organización y control de las operaciones críticas para la expansión en:
 
  * Finanzas
 
@@ -188,5 +191,8 @@ Se propone trabajar semanalmente en la obtención indicadores clave mensualmente
  * Ingreso
 
  * Crecimiento y tecnología
- 
+
+# Crea tu tienda en Shopify como un experto
+
+
 
