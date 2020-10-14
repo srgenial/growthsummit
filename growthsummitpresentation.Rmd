@@ -86,12 +86,21 @@ knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
 #sapply(c(PDINEGI, PDWDI, VA.PIB.INEGI), class)
 ```
 
+## ¿Quién Soy?.
 
-# Antecedentes tesis
+![](20200701-Juan - 014.jpg){width=70%}
+
+Link a CV: https://github.com/srgenial/resumejuan/blob/master/Resume-commercial.pdf
+
+![Curriculum](Resume-commercial1.pdf){width=100%}
 
 
+# Elementos imprescindibles del Comercio Electrónico
 
-# Ecommerce implica estrategia
+
+# Estrategia
+
+Ecommerce implica estrategia
 
 ## __Desarrollo de un plan estratégico__
 
@@ -99,74 +108,7 @@ Los CEO's de las empresas buscan verticalmente integrarse a su sector de la indu
 
 ## Plan para ventas al cliente final (consumidor)
 
-
 ## Integración vertical de la capacidad instalada  (oferta)
-
-
-# Una Mayor participación en la demanda está invirtiendo en el ECOMMERCE 
-
-Esto no es solo por la pandemia, es un efecto que vengo estudiando en mi tesis
-
-# B2B y B2C
-
-## Las grandes empresas concentran sus esfuerzos de progreso 3 grandes rubros
-
-  - Marketing de ventas
-  - Logística en suministro y despacho
-  - Tecnología propia con valor aggregado
-
-
-
-![](Venn Diagram.png){width=70%}
-
-# ¿Quién DIRIGE esa visión?
-
-# Dirección de expansión o Chief Growth Officer (CGO).
-
-
-# ¿Qué es un CGO?
-
-El complemento perfecto para un CEO
-
-##  director general + director de operaciones 
-
-Si las debilidades para expandirse se concentran en Marketing y Tecnología necesitas un CGO.
-
-![](Descripcion CGO.png)
-
-## Sabemos que problemas multisectoriales requieren dirección multidepartamental.
-## Dirección orientada a equipos.
-
-![Curriculum](Resume-commercial1.pdf){width=100%}
-
-https://github.com/srgenial/resumejuan/blob/master/Resume-commercial.pdf
-
-# ¿Cómo lo lograremos?
-## Arquitectura estatégica en conjunto
-
-Dibujaremos un mapa estratégico que vincula los activos tangibles y los procesos críticos a la propuesta de valor al cliente y a los resultados financieros.
-
- - Planeación
- - Organización
- - Ejecución
- - Control
-
-![](BSC map.png)
-
-# El inicio está en un análisis FODA por área.
-
-## Medición a través de las 5 fuerzas de Porter y aplicar un BSC a largo plazo.
-
-Se propone trabajar semanalmente en la obtención indicadores clave mensualmente para organización y control de las operaciones críticas para la expansión en:
-
- * Finanzas
-
- * Operación interna
-
- * Ingreso
-
- * Crecimiento y tecnología
- 
 
 # Dirigir y decidir
 
@@ -184,3 +126,68 @@ Acuerdo inicial a 3.3 años para:
  - Control: 10 meses de supervisión global.
  
  Compromiso de una Renegociación de acuerdo inicial para acuerdo a 10 años en la vicepresidencia de Negocios Intl. o simil.
+
+
+
+# Investigación de Mercado
+Una Mayor participación en la demanda está invirtiendo en el ECOMMERCE 
+
+Esto no es solo por la pandemia, es un efecto que vengo estudiando en mi tesis
+
+# B2B y B2C
+
+## Las grandes empresas concentran sus esfuerzos de progreso 3 grandes rubros
+
+  - Marketing de ventas
+  - Logística en suministro y despacho
+  - Tecnología propia con valor aggregado
+
+
+
+![](Venn Diagram.png){width=70%}
+
+
+# Dirección de expansión o Chief Growth Officer (CGO).
+
+## ¿Quién DIRIGE esa visión?
+
+## ¿Qué es un CGO?
+
+El complemento perfecto para un CEO
+
+###  director general + director de operaciones 
+
+Si las debilidades para expandirse se concentran en Marketing y Tecnología necesitas un CGO.
+
+![](Descripcion CGO.png)
+
+Sabemos que problemas multisectoriales requieren dirección multidepartamental.
+
+
+# Arquitectura estatégica en conjunto
+## ¿Cómo lo lograremos?
+
+Dibujaremos un mapa estratégico que vincula los activos tangibles y los procesos críticos a la propuesta de valor al cliente y a los resultados financieros.
+
+ - Planeación
+ - Organización
+ - Ejecución
+ - Control
+
+![](BSC map.png)
+
+## El inicio está en un análisis FODA por área.
+
+## Medición a través de las 5 fuerzas de Porter y aplicar un BSC a largo plazo.
+
+Se propone trabajar semanalmente en la obtención indicadores clave mensualmente para organización y control de las operaciones críticas para la expansión en:
+
+ * Finanzas
+
+ * Operación interna
+
+ * Ingreso
+
+ * Crecimiento y tecnología
+ 
+
