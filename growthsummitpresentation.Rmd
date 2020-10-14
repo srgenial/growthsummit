@@ -86,14 +86,13 @@ knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
 #sapply(c(PDINEGI, PDWDI, VA.PIB.INEGI), class)
 ```
 
-## ¿Quién Soy?.
+# ¿Quién Soy?.
 
-![](20200701-Juan - 014.jpg){width=70%}
+![](20200701-Juan - 014-min.jpg){width=70%}
 
 Link a CV: https://github.com/srgenial/resumejuan/blob/master/Resume-commercial.pdf
 
-![Curriculum](Resume-commercial1.pdf){width=100%}
-
+![Curriculum](Resume-commercial-spanish.pdf){width=100%}
 
 # Elementos imprescindibles del Comercio Electrónico
 
