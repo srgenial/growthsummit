@@ -7,7 +7,7 @@ output:
     toc : true
     toc_depth : 3
     toc_float :
-      collapsed: false
+      collapsed: true
       smooth_scroll: false
       number_sections: true
 ---
@@ -92,21 +92,23 @@ knitr::opts_chunk$set(fig.align = 'center', out.width="90%", echo = TRUE)
  - Crea tu estrategia de ecommerce y expansión del ingreso.
  - 3 elementos clave = 3 soluciones gratis
  
-# ¿Quién Soy?.
 
-![](20200701-Juan - 014-min.jpg){width=70%}
+## ¿Quién Soy?.
 
-Link a CV: https://github.com/srgenial/resumejuan/blob/master/Resume-commercial.pdf
+![](20200701-Juan - 014-min.jpg){height=70%}
+
+Link a CV: https://github.com/srgenial/resumejuan/blob/master/Resume-commercial-spanish.pdf
 
 ![Curriculum](Resume-commercial-spanish.pdf){width=100%}
 
 
 
-# __Estrategias para negocios exitosos__
+# __La Estrategia de ecommerce para negocios exitosos__
 
-Ecommerce implica estrategia 
+__Ecommerce implica estrategia__
 
-## ¿Cómo se lograremos?
+
+## ¿Cómo se logra?
 
 Dibujamos un mapa estratégico que vincula los activos tangibles y los procesos críticos a la propuesta de valor al cliente y a los resultados financieros.
 
